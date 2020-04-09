@@ -7,6 +7,8 @@ from .updates import *
 from .exceptions import *
 from .utils import *
 from .attributes import *
+from .fields import *
+from .model import *
 
 # todo: add support for condition inversion
 
